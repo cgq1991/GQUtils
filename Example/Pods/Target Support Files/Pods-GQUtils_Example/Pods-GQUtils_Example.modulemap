@@ -1,0 +1,6 @@
+framework module Pods_GQUtils_Example {
+  umbrella header "Pods-GQUtils_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
