@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GQUtils_Example' do
+  pod 'GQUtils', :path => '../'
+
+  target 'GQUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
